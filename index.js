@@ -1,3 +1,6 @@
+//End Game 
+//Let's Play it 
+
 var readlineSync=require("readline-sync")
 
 var score=0;
